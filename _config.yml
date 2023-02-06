@@ -83,15 +83,15 @@ analytics:
 # Site Author
 author:
   name             : "Abdullah Alshaya"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Assistant Professor"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-9105-5300"
+  googlescholar    : "https://scholar.google.com/citations?user=LZ2GIm8AAAAJ&hl=en"
+  email            : "abdullah.alshaye@ku.edu.kw"
+  researchgate     :  "https://www.researchgate.net/profile/Abdullah-Alshaya-2"
   uri              :
   bitbucket        :
   codepen          :
