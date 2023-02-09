@@ -85,9 +85,9 @@ author:
   name             : "Abdullah Alshaya"
   avatar           : "avatar.jpg"
   bio              : "Assistant Professor"
-  location         : "Kuwait"
-  employer         : "Kuwait University"
-  pubmed           :  "https://www.scopus.com/authid/detail.uri?authorId=56239265800"
+  location         : 
+  employer         : "Kuwait University, Kuwait"
+  pubmed           : 
   orcid            : "https://orcid.org/0000-0002-9105-5300"
   googlescholar    : "https://scholar.google.com/citations?user=LZ2GIm8AAAAJ&hl=en"
   email            : "abdullah.alshaye@ku.edu.kw"
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abdullah-alshaya-80798665/"
+  linkedin         : "https://www.linkedin.com/in/abdullah-alshaya-80798665/?originalSubdomain=kw"
   mastodon         : 
   pinterest        :
   soundcloud       :
