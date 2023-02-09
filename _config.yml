@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : avatar.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -99,18 +99,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "abdullah-alshaye"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  mastodon         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
