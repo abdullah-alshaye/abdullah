@@ -1,10 +1,10 @@
 ---
-title: "Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden"
+title: "A Developed Hybrid Experimental-Analytical Method for Thermal Stress Analysis of a Deep U-notched Plate"
 collection: publications
-permalink: /publication/2022-teaching-programming
-date: 2022-01-01
-venue: 'PS: Political Science & Politics'
-paperurl: '/files/pdf/teaching/Teaching Programming.pdf'
-link: 'https://doi.org/10.1017/S1049096521001153'
-citation: 'Williams, Rob. 2022. &quot;Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden.&quot; <i>PS: Political Science & Politics</i> 55(1): 221-224. doi:10.1017/S1049096521001153'
+permalink: /publication/2023-developed-hybrid-method
+date: 2023-01-01
+venue: 'Theoretical and Applied Fracture Mechanics'
+paperurl: '/files/pdf/journal-papers/developed-hybrid-method.pdf'
+link: 'https://www.sciencedirect.com/science/article/abs/pii/S0167844223000058'
+citation: 'Alshaya, A. 2023. &quot;A Developed Hybrid Experimental-Analytical Method for Thermal Stress Analysis of a Deep U-notched Plate.&quot; <i>Theoretical and Applied Fracture Mechanics</i> 124: 103753. doi:10.1017/S1049096521001153'
 ---
