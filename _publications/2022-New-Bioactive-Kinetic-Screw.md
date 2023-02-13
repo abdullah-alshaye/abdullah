@@ -1,10 +1,10 @@
 ---
-title: "Robust Multi-Steps Input Command for Liquid Sloshing Control"
+title: "Proposal for a New Bioactive Kinetic Screw in an Implant, Using a Numerical Model"
 collection: publications
-permalink: /publication/2022-Robust-Multi-Steps
-date: 2022-10-01
-venue: 'Journal of Vibration and Control'
-paperurl: '/files/pdf/journal-papers/Robust-Multi-Steps.pdf'
-link: 'https://journals.sagepub.com/doi/full/10.1177/10775463211017721'
-citation: 'Alshaya, A., Alshayji, A. 2022. &quot;Robust Multi-Steps Input Command for Liquid Sloshing Control.&quot; <i>Journal of Vibration and Control</i> 28 (19-20): 2607-2624.'
+permalink: /publication/2022-New-Bioactive-Kinetic-Screw
+date: 2022-01-13
+venue: 'Applied Sciences'
+paperurl: '/files/pdf/journal-papers/New-Bioactive-Kinetic-Screw.pdf'
+link: 'https://www.mdpi.com/2076-3417/12/2/779'
+citation: 'Andreucci, C., Alshaya, A., Fonseca, E., Jorge, R. 2022. &quot;Proposal for a New Bioactive Kinetic Screw in an Implant, Using a Numerical Model.&quot; <i>Applied Sciences</i> 12 (2): 779.'
 ---
