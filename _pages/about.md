@@ -44,7 +44,7 @@ Currently, I have [published](publications) *21 papers* in peer-reviewed journal
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
 {: #ProfessionalExperience }
-- Co-Founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2019 to present.
+- Co-Founder of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2019 to present.
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
 - Well Surveillance Engineer in the [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), 2009 - 2011.
   - Witnessing, devopming, and optimizing well production.
