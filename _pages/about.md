@@ -42,8 +42,8 @@ Currently, I have [published](publications) *21 papers* in peer-reviewed journal
   - Graduate Courses
     - ME  512: Advanced Mechanical Vibration
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experimence
-{: #ProfessionalExperimence }
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
+{: #ProfessionalExperience }
 - Co-Founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2019 to present.
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
 - Well Surveillance Engineer in the [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), 2009 - 2011.
