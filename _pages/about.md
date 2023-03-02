@@ -21,8 +21,8 @@ I am an assistant professor of Mechanical Engineering at [Kuwait University](htt
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Research Interests](research)
 {: #Research_Interests }
 - Biomechanics: Locomotion, Orthopedics.
-- Experimental Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
-- Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial
+- Applied Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
+- Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial.
 Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Teaching](teaching)
