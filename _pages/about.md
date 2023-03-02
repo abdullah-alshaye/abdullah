@@ -14,7 +14,7 @@ My PhD thesis was in *experimental, analytical, and numerical analyses of orthot
 
 My [research interests](research) include: (i) biomechanics: locomotion, orthopedics; (ii) solid mechanics: experimental stress analysis (Thermoelastic Stress Analysis, Digital Image Correlation), inverse analysis (material characterization); and (iii) vibration control: command shaping, sloshing suppression. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings. I [taught](teaching) several courses in [University *of* Wisconsin - Madison](https://www.wisc.edu/) and [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm).
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Education
+## <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Education
 {: #Education }
 - Bachelor of Science (B.S.) degree in Mechanical Engineering from [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm), 2009.
 - Master of Science (M.S.) degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2012.
