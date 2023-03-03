@@ -27,8 +27,9 @@ I am an assistant professor of Mechanical Engineering at [Kuwait University](htt
 
 Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings. My [research interests/areas](research) include:
 - Biomechanics: Locomotion, Orthopedics.
-- Applied Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
+- Experimental Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
 - Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial
+Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Teaching Experience](teaching)
 {: #Teaching }
@@ -51,8 +52,8 @@ Currently, I have [published](publications) *21 papers* in peer-reviewed journal
   - Instructor, Graduate Courses
     - ME  512: Advanced Mechanical Vibration
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
-{: #ProfessionalExperience }
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experimence
+{: #ProfessionalExperimence }
 - Co-Founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2019 to present.
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
 - Well Surveillance Engineer in [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), 2009 - 2011.
