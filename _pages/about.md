@@ -30,8 +30,6 @@ Currently, I have [published](publications) *21 papers* in peer-reviewed journal
 - Experimental Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
 - Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial
 
-Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings.
-
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Teaching Experience](teaching)
 {: #Teaching }
 - University of Wisconsin - Madions
