@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. My PhD thesis was in *experimental, analytical, and numerical analyses of orthotropic materials and biomechanics application*. I worked in couple of projects such as developing a mechanical device based on Timoshenko and Van Karmann idea to measure the kinetic friction coefficients, and validating of multiple musculoskeletal thumb models with collected experimental data. I am interested in reading, swimming, and playing soccer.
+I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings, and I taught as instructor more than *8* undergraduate and graduate courses. Pior pursuing my higher educations, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx). I am interested in reading, swimming, and playing soccer.
+
+My [research interests/areas](research) include:
+- Biomechanics: Locomotion, Orthopedics.
+- Experimental Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
+- Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Education
 {: #Education }
@@ -22,13 +27,11 @@ I am an assistant professor of Mechanical Engineering at [Kuwait University](htt
 {: #Research_Experience }
 - Assistant Professor, [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm), 2017 - present.
 - Graduate Research Assistant, Experimental Mechanics Lab at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2016.
+  - Thesis Title: *Experimental, Analytical, and Numerical Analyses of Orthotropic Materials and Biomechanics Application*.
 - Project Research Assistant, Biomechanics Lab at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2014.
+  - Project: *Validating of Multiple Musculoskeletal Thumb Models with Collected Experimental Data*.
 - Graduate Research Assistant, Polymer Engineering Center at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2011 - 2012.
-
-Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings. My [research interests/areas](research) include:
-- Biomechanics: Locomotion, Orthopedics.
-- Experimental Mechanics: Experimental Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Method (Material Characterization).
-- Vibration Control: Command Shaping, Sloshing Suppression, Metamaterial
+  - Project: *Developing a Mechanical Device based on Timoshenko and Van Karmann Idea to Measure Kinetic Friction Coefficients*.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Teaching Experience](teaching)
 {: #Teaching }
