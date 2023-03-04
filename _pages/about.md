@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings, and I taught as instructor more than *8* undergraduate and graduate courses. Pior pursuing my higher educations, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx). I am interested in reading, swimming, and playing soccer.
+I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings, and I [taught](teaching) as instructor more than *8* undergraduate and graduate courses. Prior pursuing my higher educations, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx). I am interested in reading, swimming, and playing soccer.
 
 My [research interests/areas](research) include:
 - Biomechanics: Locomotion, Orthopedics.
@@ -33,12 +33,12 @@ My [research interests/areas](research) include:
 - Graduate Research Assistant, Polymer Engineering Center at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2011 - 2012.
   - Project: *Developing a Mechanical Device based on Timoshenko and Van Karmann Idea to Measure Kinetic Friction Coefficients*.
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> [Teaching Experience](teaching)
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Teaching Experience
 {: #Teaching }
-- University of Wisconsin - Madions
+- University of Wisconsin - Madison
   - Teaching Assistant, Mathematics Department, Fall 2016
     - Math 112: College Algebra
-  - Tutor, Undergratuate Learning Center and Mathematics Department
+  - Tutor, Undergraduate Learning Center and Mathematics Department
     - Provide private and drop-in tutoring sessions for Math and Mechanical Engineering Classes.
   - Grader, Engineering Mechanics and Mathematics Department
     - EMA-547/8 Engineering Analysis I/II and MATH-431 Theory of Probability
@@ -54,12 +54,12 @@ My [research interests/areas](research) include:
   - Instructor, Graduate Courses
     - ME  512: Advanced Mechanical Vibration
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experimence
-{: #ProfessionalExperimence }
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
+{: #ProfessionalExperience }
 - Co-Founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2019 to present.
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
 - Well Surveillance Engineer in [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), 2009 - 2011.
-  - Witnessing, devopming, and optimizing well production.
+  - Witnessing, developing, and optimizing well production.
 - Power Plant Engineer in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/), 2009.
   - Developing and designing power plants.
 
