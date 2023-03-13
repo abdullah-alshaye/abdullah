@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings, and I have [taught](teaching) more than *8* undergraduate and graduate courses at Kuwait Uinersity. Prior pursuing my higher education, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx). I am interested in reading, swimming, and playing soccer.
+I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) *21 papers* in peer-reviewed journals and conference proceedings, and I have [taught](teaching) more than *8* undergraduate and graduate courses at Kuwait Uinersity. Prior pursuing my higher education, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), and I hold a geen belt in Six sigma Methodologies from [Six Sigma Academy](https://www.ssaandco.com/) in 2011. I am interested in reading, swimming, and playing soccer.
 
 My [research interests/areas](research) include:
 - Biomechanics: Locomotion, Orthopedics.
@@ -27,20 +27,20 @@ My [research interests/areas](research) include:
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Education
 {: #Education }
-- Ph.D in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2016.
-- Master of Arts (M.A.) in Mathematics (Applied Mathematics) from [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2015.
-- Master of Science (M.Sc.) in Engineering Mechanics from [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2012 - 2013.
-- Master of Science (M.Sc.) in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2011 - 2012.
-- Bachelor of Science (B.Sc.) in Mechanical Engineering from [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm), 2004 - 2008.
+- Ph.D in Mechanical Engineering from University *of* Wisconsin - Madison, 2013 - 2016.
+- Master of Arts (M.A.) in Mathematics (Applied Mathematics) from University *of* Wisconsin, 2013 - 2015.
+- Master of Science (M.Sc.) in Engineering Mechanics from University *of* Wisconsin, 2012 - 2013.
+- Master of Science (M.Sc.) in Mechanical Engineering from University *of* Wisconsin, 2011 - 2012.
+- Bachelor of Science (B.Sc.) in Mechanical Engineering from University *of* Wisconsin, 2004 - 2008.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Research Experience
 {: #Research_Experience }
-- Assistant Professor, [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm), 2017 - present.
-- Graduate Research Assistant, Experimental Mechanics Lab at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2016.
+- Assistant Professor, Kuwait University, 2017 - present.
+- Graduate Research Assistant, Experimental Mechanics Lab at University *of* Wisconsin, 2013 - 2016.
   - Thesis Title: *Experimental, Analytical, and Numerical Analyses of Orthotropic Materials and Biomechanics Application*.
-- Project Research Assistant, Biomechanics Lab at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2013 - 2014.
+- Project Research Assistant, Biomechanics Lab at University *of* Wisconsin, 2013 - 2014.
   - Project: *Validating of Multiple Musculoskeletal Thumb Models with Collected Experimental Data*.
-- Graduate Research Assistant, Polymer Engineering Center at [University *of* Wisconsin - Madison](https://www.wisc.edu/), 2011 - 2012.
+- Graduate Research Assistant, Polymer Engineering Center at University *of* Wisconsin, 2011 - 2012.
   - Project: *Developing a Mechanical Device based on Timoshenko and Van Karmann Idea to Measure Kinetic Friction Coefficients*.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Teaching Experience
@@ -66,13 +66,13 @@ My [research interests/areas](research) include:
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
 {: #ProfessionalExperience }
-- Co-Founder of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/), 2020 to present.
+- Co-Founder of Kuwait Institute for Training and Engineering Simulations (KITES), 2020 to present.
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
-- Well Surveillance Engineer in [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), 2009 - 2011.
+- Well Surveillance Engineer in Kuwait Oil Company (KOC), 2009 - 2011.
   - Witnessing, developing, and optimizing well production.
-- Green Belt in Six sigma Methodologies, [Six Sigma Academy](https://www.ssaandco.com/)
+- Green Belt in Six sigma Methodologies, Six Sigma Academy, 2011.
   - Project: *Reduce the failed jobs which are requested by Field Development Engineers to 70% in a six-month period by guiding the Well Surveillance Engineers to perform the requested jobs more professionally and effectively while keeping the cost and operation time as low as possible*.
-- Power Plant Engineer in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/), 2009.
+- Power Plant Engineer in Ministry *of* Electricity and Water, 2009.
   - Developing and designing power plants.
 
 You can download a PDF copy of my CV [here](/files/pdf/Resume.pdf).

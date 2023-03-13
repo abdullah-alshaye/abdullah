@@ -18,3 +18,9 @@ author_profile: true
 {% endfor %}
 
 <sup>*</sup> Equal authorship
+
+## Proceeding and Conference Papaers
+
+{% for post in site.conferences reversed %}
+  {% include archive-single.html %}
+{% endfor %}
