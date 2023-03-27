@@ -89,6 +89,16 @@ My [research interests/areas](research) include:
 - *Analysis of Bone Healing in a New Biomechanical Screw*, Kuwait University, April 01, 2023 to March 31, 2025, *Primary Investigator (PI)*, 31,150 K.D ($101,000).
 - *Control of Three-dimensional Nonlinear Sloshing using Multi-Steps Input Commands*, Kuwait University, May 07, 2022 to May 06, 2024, *Primary Investigator (PI)*, 6,850 K.D ($22,550).
 
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Student Supervision
+{: #StudentSupervision }
+- Undergraduate
+  - Dima Almujarrab, ''*Smooth-Polynomial Command-Shaping for Sloshing Suppression of a Suspended Liquid Container*,'' December 2019.
+- Graduate
+  - Abdulaziz Aldhubaibi, ''*Inverse-Problem of Diametrically Loaded Disk using Digital Image Correlation*,'' [Thesis], August 2023.
+  - Munira Alburaidi, ''*Multi-Mode Robust Shaped Commands for Sloshing Control*,'' [Thesis], August 2023.
+  - Asmaa Alshemmari, ''*Dynamics Model of Bipedal Gait Analysis: Direct and Inverse Approach*,'' [Thesis], August 2023.
+  - Fatema Mohammed, ''*Three-dimensional Modeling of Sloshing Dynamics*,'' [Thesis], August 2023.
+
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Committees
 {: #Committees }
 - Consultation and Short Courses, member, 2021 - 2023.
