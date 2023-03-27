@@ -31,7 +31,7 @@ My [research interests/areas](research) include:
 - Master of Arts (M.A.) in Mathematics (Applied Mathematics) from University *of* Wisconsin, 2013 - 2015.
 - Master of Science (M.Sc.) in Engineering Mechanics from University *of* Wisconsin, 2012 - 2013.
 - Master of Science (M.Sc.) in Mechanical Engineering from University *of* Wisconsin, 2011 - 2012.
-- Bachelor of Science (B.Sc.) in Mechanical Engineering from University *of* Wisconsin, 2004 - 2008.
+- Bachelor of Science (B.Sc.) in Mechanical Engineering from Kuwait University, 2004 - 2008.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Research Experience
 {: #Research_Experience }
@@ -45,13 +45,6 @@ My [research interests/areas](research) include:
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Teaching Experience
 {: #Teaching }
-- University of Wisconsin - Madison
-  - Teaching Assistant, Mathematics Department, Fall 2016
-    - Math 112: College Algebra
-  - Tutor, Undergraduate Learning Center and Mathematics Department, 2013 - 2016
-    - Provide private and drop-in tutoring sessions for Math and Mechanical Engineering Classes.
-  - Grader, Engineering Mechanics and Mathematics Department, 2013 - 2016
-    - EMA-547/8 Engineering Analysis I/II and MATH-431 Theory of Probability
 - Kuwait University, Mechanical Engineering Department, 2017 - present
   - Instructor, Undergraduate Courses
     - ENG 203: Dynamics
@@ -63,6 +56,13 @@ My [research interests/areas](research) include:
     - ME  483: Biomechanics
   - Instructor, Graduate Courses
     - ME  512: Advanced Mechanical Vibration
+- University of Wisconsin - Madison
+  - Teaching Assistant, Mathematics Department, Fall 2016
+    - Math 112: College Algebra
+  - Tutor, Undergraduate Learning Center and Mathematics Department, 2013 - 2016
+    - Provide private and drop-in tutoring sessions for Math and Mechanical Engineering classes.
+  - Grader, Engineering Mechanics and Mathematics Department, 2013 - 2016
+    - EMA-547/8 Engineering Analysis I/II and MATH-431 Theory of Probability
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Professional Experience
 {: #ProfessionalExperience }
@@ -70,9 +70,61 @@ My [research interests/areas](research) include:
   - Chief Scientific Officer (CSO) and the lead simulation consultant.
 - Well Surveillance Engineer in Kuwait Oil Company (KOC), 2009 - 2011.
   - Witnessing, developing, and optimizing well production.
-- Green Belt in Six sigma Methodologies, Six Sigma Academy, 2011.
-  - Project: *Reduce the failed jobs which are requested by Field Development Engineers to 70% in a six-month period by guiding the Well Surveillance Engineers to perform the requested jobs more professionally and effectively while keeping the cost and operation time as low as possible*.
+- Green Belt Certification in Six Sigma Methodologies from Six Sigma Academy, 2011.
+  - Six Sigma Project: *Reduce the failed jobs which are requested by Field Development Engineers to 70% in a six-month period by guiding the Well Surveillance Engineers to perform the requested jobs more professionally and effectively while keeping the cost and operation time as low as possible*.
 - Power Plant Engineer in Ministry *of* Electricity and Water, 2009.
   - Developing and designing power plants.
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Peer Review
+{: #PeerReview }
+- Journal of the Brazilian Society of Mechanical Sciences and Engineering.
+- Complexity.
+- Transactions of the Institute of Measurement and Control.
+- Nonlinear Dynamics.
+- PLOS ONE.
+- CoDIT 2023.
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Research Grants
+{: #ResearchGrants }
+- *Analysis of Bone Healing in a New Biomechanical Screw*, Kuwait University, April 01, 2023 to March 31, 2025, *Primary Investigator (PI)*, 31,150 K.D ($101,000).
+- *Control of Three-dimensional Nonlinear Sloshing using Multi-Steps Input Commands*, Kuwait University, May 07, 2022 to May 06, 2024, *Primary Investigator (PI)*, 6,850 K.D ($22,550).
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Committees
+{: #Committees }
+- Consultation and Short Courses, member, 2021 - 2023.
+- Research Committee, member, 2020 - 2022.
+- Timetable Committee, member, 2020 - 2022.
+- Scholarship Committee, member, 2019 - 2020 and 2022 - 2023.
+- Student Advising Committee, coordinator, 2018 - 2022.
+- Dynamics and Control TAG, coordinator, 2018 - 2020.
+- Design and Material Labs, member, 2017 - 2018.
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Awards and Honors
+{: #Awards }
+- Student Research Travel Grant - Conference Presentation Funds, November 2016.
+- Academic Achievement Award from University of Wisconsin-Madison, May 2013 - 2016.
+- Honor Society of Phi Kappa Phi, Member Board, April 2013.
+- Kuwait University Scholarship, 2010.
+- Amir (Prince of Kuwait) Honor Reward (The best two students in each Colleges), 2009.
+- Kuwait University Excellence Student (The best two students in each Colleges), 2007 - 2008.
+- Dean’s Honor List, 2006 - 2009.
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Membership
+{: #Membership }
+- American Mathematical Society (AMS), November 2014.
+- Society of Plastics Engineers (SPE), November 2012.
+- Society of Petroleum Engineers (SPE), May 2011.
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Social Activities
+{: #SocialActivities }
+- Coordinator of ASME Chapter in Kuwait University, Mechanical Engineering Department, 2017 - 2018.
+- Provide MATLAB short courses (Introductory, Intermediate, and Advanced Level).
+
+## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Skills
+{: #Skills }
+- *Global Languages*: Fluent in English and Arabic languages.
+- *Programming and Numeric Computing Platform*: MATLAB, EES.
+- *Engineering Simulation Software*: ANSYS, COMSOL.
+- *Office Software and Tools*: Word, Excel, PowerPoint, LaTeX.
 
 You can download a PDF copy of my CV [here](/files/pdf/Resume.pdf).
