@@ -11,9 +11,9 @@ redirect_from:
 I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D. degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) more than *25 papers* in international recognized peer-reviewed journals and conference proceedings, and I have [taught](teaching) more than *8* undergraduate and graduate courses at Kuwait University. Prior of pursuing my higher education, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), and I have been awarded a green belt certification in Six sigma Methodologies from [Six Sigma Academy](https://www.ssaandco.com/) in 2011. I am interested in reading, swimming, and playing soccer.
 
 My [research interests/areas](research) include:
-- Biomechanics: Locomotion, Orthopedics.
-- Applied Mechanics: Hybrid Methods for Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Methods (Material Characterization).
-- Vibration Control: Command Shaping, Multi-Mode Systems, Sloshing Suppression, Metamaterial.
+- <b>Biomechanics:</b> Locomotion, Orthopedics.
+- <b>Applied Mechanics:</b> Hybrid Methods for Stress Analysis (Thermoelastic Stress Analysis, Digital Image Correlation), Inverse Methods (Material Characterization).
+- <b>Vibration Control:</b> Command Shaping, Multi-Mode Systems, Sloshing Suppression, Metamaterial.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Academic Employment
 {: #AcademicEmployment }
@@ -22,7 +22,7 @@ My [research interests/areas](research) include:
   - Engaging in several committees at department and college levels.
   - Advising students through their academic years.
   - Performing professional service activities which benefit the university, the community, and the engineering education profession.
-  - Engaging in research activities through attending conferences and workshops, publishing research manuscripts in peer-reviewed journals, and applying for research grants.
+  - Engaging in research activities through attending conferences and workshops, publishing research articles in peer-reviewed journals, and applying for research grants.
 - Director of Research Office, College of Engineering and Petroleum at Kuwait University, 2019 - 2021.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Education
