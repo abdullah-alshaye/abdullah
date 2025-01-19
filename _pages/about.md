@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D. degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) more than *25 papers* in international recognized peer-reviewed journals and conference proceedings, and I have [taught](teaching) more than *8* undergraduate and graduate courses at Kuwait University. Prior of pursuing my higher education, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), and I have been awarded a green belt certification in Six sigma Methodologies from [Six Sigma Academy](https://www.ssaandco.com/) in 2011. I am interested in reading, swimming, and playing soccer.
+I am an associate professor of Mechanical Engineering at [Kuwait University](http://kuweb.ku.edu.kw/ku/index.htm) and one of the co-founders of [Kuwait Institute for Training and Engineering Simulations (KITES)](http://kites-kw.com/en/). I received my Ph.D. degree in Mechanical Engineering from [University *of* Wisconsin - Madison](https://www.wisc.edu/) in 2016. Currently, I have [published](publications) more than *25 papers* in international recognized peer-reviewed journals and conference proceedings, and I have [taught](teaching) more than *9* undergraduate and graduate courses at Kuwait University. Prior of pursuing my higher education, I worked for couple of years in [Ministry *of* Electricity and Water](https://www.mew.gov.kw/en/) and [Kuwait Oil Company (KOC)](https://www.kockw.com/sites/EN/Pages/Default.aspx), and I have been awarded a green belt certification in Six Sigma Methodologies from [Six Sigma Academy](https://www.ssaandco.com/) in 2011. I am interested in reading, swimming, and playing soccer.
 
 My [research interests/areas](research) include:
 - <b>Biomechanics:</b> Locomotion, Orthopedics.
@@ -50,6 +50,7 @@ My [research interests/areas](research) include:
     - ENG 203: Dynamics
     - ENG 307: Applied Numerical Methods and Programming in Engineering
     - ENG 308: Numerical Methods in Engineering
+    - ME  318: System Dynamics
     - ME  351: Mechanical Design I
     - ME  448: Advanced Strength of Material
     - ME  415: Mechanical Vibration
@@ -82,6 +83,7 @@ My [research interests/areas](research) include:
 - Transactions of the Institute of Measurement and Control.
 - Nonlinear Dynamics.
 - PLOS ONE.
+- Journal of Vibration and Control (JVC)
 - CoDIT 2023.
 
 ## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Research Grants
